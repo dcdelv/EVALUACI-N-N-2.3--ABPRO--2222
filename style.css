@@ -259,9 +259,10 @@ label {
   .header-mobile {
     display: none;
   }
-.centered {
-  display:none;
-}
+  .centered-mobile {
+    display: none;
+  }
+
   #wrapper-mobile {
     display: none;
   }
@@ -273,7 +274,7 @@ label {
   .header-mobile {
     display: none;
   }
-  .centered{
+  .centered-mobile {
     display: none;
   }
 
