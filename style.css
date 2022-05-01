@@ -259,10 +259,9 @@ label {
   .header-mobile {
     display: none;
   }
-  .centered-mobile {
-    display: none;
-  }
-
+.centered {
+  display:none;
+}
   #wrapper-mobile {
     display: none;
   }
